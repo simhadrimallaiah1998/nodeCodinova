@@ -1,9 +1,9 @@
 {
   "dev": {
     "driver": "pg",
-    "user": "postgres",
-    "password": "7736",
-    "host": "localhost",
-    "database": "pos_db"
+    "user": "vkimmray",
+    "password": "6fptqxrR3c-CMKe-b6B0H90RLrSZhDAm",
+    "host": "snuffleupagus.db.elephantsql.com",
+    "database": "vkimmray"
   }
 }
